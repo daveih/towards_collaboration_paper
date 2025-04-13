@@ -1,2 +1,5 @@
-# towards_collaboration_paper
-A small repo holding the collaboration discussion paper
+# A New World Paper
+## Purpose
+A small repo holding the New World discussion paper
+## Licence
+Please note the licence file.
